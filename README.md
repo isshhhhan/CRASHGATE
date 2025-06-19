@@ -20,6 +20,7 @@ To analyze:
 Sourced from a [https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020],
  merged and cleaned using Python and Pandas.
 
+ Some values like pre-crash positions were missing for a few races, which reflects the challenge of working with real-world motorsport data!!!
 **Final output:** `crashgate.csv` containing:
 - `driver_name`
 - `year`
